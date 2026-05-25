@@ -1,6 +1,8 @@
-# Dev Environment Setup (macOS)
+# 2030ai-dev-environment-setup (macOS)
 
 Руководство по настройке окружения для работы с Claude Code + MCP + Superpowers на macOS.
+
+GitHub slug: `2030ai/2030ai-dev-environment-setup`.
 
 > **Версия для Windows:** [dev-environment-setup-windows](https://github.com/Afanaseva/dev-environment-setup-windows)
 
